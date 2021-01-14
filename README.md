@@ -2,7 +2,7 @@
 
 Neste curso introdutório de JavaScrip otive contato com diversos comandos, entre eles:
 
-* **Alert
+**Alert
 Variavéis 
 Console.log
 Array e dicionário
